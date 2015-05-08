@@ -191,8 +191,6 @@ Step 4 - Rename **/billio/languages** directory into something else, for example
 Step 5 - Once you’ve done with steps above, navigate to **Settings > General > Site Language**. Select your language from select option.
 
 
-*WATCH A VIDEO TUTORIAL*
-
 ####1.6.2 Send us your translation!
 
 If you translate Billio into a language that isn't included, then we'd really appreciate it if you could send it to us. It will be helpful to other users and also you wouldn't have to worry about theme updates. We will give you credits for the translation on our theme description page. Thanks!
