@@ -41,38 +41,46 @@ The mega menus are available only for top level navigations items only in "Main 
 Follow the steps below to create a mega menu:
 
 Step 1 - Make sure that **Mega Menu Elements, CSS Classes and Description** option is checked in the **Screen Options** under "Show advanced menu properties" while you are in **Appearance > Menus** page in your WordPress Dasboard.
+
 ![Screen Options](http://i.imgur.com/ormhwmX.png)
 
 Step 2 - Now, add a an item to the menu editor. **This has to be a top level item!**
 
 Step 3 - Click on arrow icon in the top right-hand and expand. Tick **Activate Mega Menu Dropdown for this item** checkbox.
+
 ![Activate Mega Menu](http://i.imgur.com/zNJak9Y.png)
 
 Step 4 - Click **Add Column**
+
 ![Add Column](http://i.imgur.com/Wv4pqoz.png)
 
 Step 5 - Drag it right below mega menu item and then indent it
+
 ![Indent Column](http://i.imgur.com/JL6d7Fe.png)
 
 Step 6 - Specify column width by specifying a css class, in example `col-sm-4` to display 4/12 ( or 1/3 ) width.
+
 ![Column Width](http://i.imgur.com/uNYFK66.png)
 
 Step 6 - Now, you need to add child menu items, which should be indented under **Mega Menu Column** as shown on the image below
+
 ![Child Menu Items](http://i.imgur.com/rmFRWr8.png)
 
 - Step 7 - To add Heading/ Title, click Add Heading Item in Mega Menu Elements and arrange it in the first order.
+
 ![Heading Item](http://i.imgur.com/iXcaCfu.png)
 
 Step 6 - Your dropdown should now look something like this :
+
 ![Dropdown Mega Menu](http://i.imgur.com/ZcTpZ8p.png)
 
 
 There are several additional classes available for the mega menu. Simply add them next to the 'megamenu' class separated by one single space.
 
-col-sm-3 - 1/4 column width
-col-sm-4 - 1/3 column width
-col-sm-6 - 1/2 column width
-col-sm-8 - 2/3 column width
+- col-sm-3 - 1/4 column width
+- col-sm-4 - 1/3 column width
+- col-sm-6 - 1/2 column width
+- col-sm-8 - 2/3 column width
 
 
 ####2.4 Icons in Top Bar
@@ -84,9 +92,11 @@ Step 1 - First, select your Icon from DT Icon shortcode, by creating new blank p
 ![DT Shortcode](http://i.imgur.com/UKsdhuY.png )
 
 Step 2 - Browse the icon and select an icon by clicking on it. Icon class name will be displayed on top of icon picker. Copy the icon class name.
+
 ![Browse Icon](http://i.imgur.com/sMX2c27.png)
 
-Step 3 - Navigate to **Appearance > Menus** then  enable **CSS Classes** from **Screen Options** panel ( at the top of Menus page ) by ticking it. 
+Step 3 - Navigate to **Appearance > Menus** then  enable **CSS Classes** 
+from **Screen Options** panel ( at the top of Menus page ) by ticking it. 
 
 Step 4 - Create **Links** type menu, enter *URL* and *Link Text*
 
